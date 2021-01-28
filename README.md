@@ -1,16 +1,11 @@
 # reading-notes
 
-## **What is Growth mindset?**
+## **This is the main page of my *read* submissions of 102 course**
 
-Growth Mindset is a way of thinking and enhancing your self skills, it is important because it encourages the person to
-solve and learn new skills while having a stable mind and a hunger of acheiving things
+![Web Development](https://image.freepik.com/free-vector/modern-web-design-concept-with-flat-design_23-2147856748.jpg)
 
-an example of how I keep Myself in a growth mindset and how im gonna do it:
+### List of Submission
 
-![Mindset illustration](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2-1120x1400.png)
-
- - [x] When facing Challenges I Embrace it.
- - [x] I try to keep myself putting effort on a challenge by reminding myself that no Pain, No Gain
- - [ ] I usually ignores a criticsm which is a bad habit, instead I should Learn from them. 
- 
-For more info, you can visit this link: [_Mindset_](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+1. [_Learning Markdown - 02a_](https://karasneh94.github.io/reading-notes/02a.html)
+1. [_Structure Web Pages With HTML - 03a_](https://karasneh94.github.io/reading-notes/03a.html)
+1. [_Programming With JavaScript_](https://karasneh94.github.io/reading-notes/read04.html)
