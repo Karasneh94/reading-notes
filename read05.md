@@ -28,4 +28,4 @@ Loops can be used to repeat a block of code as many times as a condition is retu
 * Do While Loop
 
 Each one has a unique syntax and each one are used in different situation.
-One of the common mistakes in using loops is that the condition might never return a false so the loop will get stuck and repeat the same block of code until forever, and we call that as an enfinity Loop.
+One of the common mistakes in using loops is that the condition might never return a false so the loop will get stuck and repeat the same block of code until forever, and we call that as an infinity Loop.

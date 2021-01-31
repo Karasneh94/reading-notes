@@ -11,3 +11,4 @@
 1. [_Structure Web Pages With HTML - 03a_](https://karasneh94.github.io/reading-notes/03a.html)
 1. [_Programming With JavaScript - read04_](https://karasneh94.github.io/reading-notes/read04.html)
 1. [_Operators and Loops - read05_](https://karasneh94.github.io/reading-notes/read05.html)
+1. [_HTML & CSS - read05_](https://karasneh94.github.io/reading-notes/read06.html)
