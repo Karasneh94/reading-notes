@@ -27,6 +27,6 @@
 | CLASS-10     | [_TBD_](201/read10.md)                                                              |
 | CLASS-11     | [_Assorted Topics_](201/class-11.md)                                                |
 | CLASS-12     | [_TBD_](201/read12.md)                                                              |
-| CLASS-13     | [_TBD_](201/read13.md)                                                              |
+| CLASS-13     | [_Local Storage_](201/class-13.md)                                                  |
 | CLASS-14     | [_TBD_](201/read14.md)                                                              |
 | CLASS-15     | [_TBD_](201/read15.md)                                                              |
