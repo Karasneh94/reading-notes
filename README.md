@@ -28,5 +28,5 @@
 | CLASS-11     | [_Assorted Topics_](201/class-11.md)                                                |
 | CLASS-12     | [_TBD_](201/read12.md)                                                              |
 | CLASS-13     | [_Local Storage_](201/class-13.md)                                                  |
-| CLASS-14a     | [_TBD_](201/read14.md)                                                              |
-| CLASS-14b    | [_TBD_](201/read15.md)                                                              |
+| CLASS-14a    | [_CSS Transforms, Transitions, and Animations_](201/class-14a.md)                   |
+| CLASS-14b    | [_What Google Learned About Teams_](201/class-14b.md)                               |
