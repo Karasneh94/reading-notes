@@ -17,7 +17,7 @@
 |    :----:    |                                      :----:                                         |
 | CLASS-01     | [_Introductory HTML and JavaScript_](201/class-01.md)                               |
 | CLASS-02     | [_HTML Text, CSS Introduction, and Basic JavaScript Instructions_](201/class-02.md) |
-| CLASS-03     | [_HTML Lists, CSS Boxes, JS Control Flow_](201/class-02.md)                         |
+| CLASS-03     | [_HTML Lists, CSS Boxes, JS Control Flow_](201/class-03.md)                         |
 | CLASS-04     | [_HTML Links, CSS Layout, JS Functions_](class-02.md)                               |
 | CLASS-05     | [_HTML Images; CSS Color & Text_](class-02.md)                                      |
 | CLASS-06     | [_TBD_](201/class-02.md)                                                            |
