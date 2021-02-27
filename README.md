@@ -24,7 +24,7 @@
 | CLASS-07     | [_Object-Oriented Programming, HTML Tables_](201/class-07.md)                       |
 | CLASS-08     | [_CSS Layout_](201/class-08.md)                                                     |
 | CLASS-09     | [_TBD_](201/read09.md)                                                              |
-| CLASS-10     | [_TBD_](201/read10.md)                                                              |
+| CLASS-10     | [_Debugging_](201/class-10.md)                                                      |
 | CLASS-11     | [_Assorted Topics_](201/class-11.md)                                                |
 | CLASS-12     | [_TBD_](201/read12.md)                                                              |
 | CLASS-13     | [_Local Storage_](201/class-13.md)                                                  |
