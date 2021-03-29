@@ -37,12 +37,12 @@
 | Name         | Link                                                                                |
 |    :----:    |                                      :----:                                         |
 | CLASS-01     | [_SMACSS and Responsive Web Design_](301/class-01.md)                               |
-| CLASS-02     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-03     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-04     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-05     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-06     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-07     | [_TBD_](201/class-02.md)                                                            |
+| CLASS-02     | [_jQuery, Events, and The DOM_](301/class-02.md)                                    |
+| CLASS-03     | [_MUSTACHE and FLEXBOX_](301/class-03.md)                                           |
+| CLASS-04     | [_CSS GRID_](301/class-04.md)                                                       |
+| CLASS-05     | [_Heroku Deployment_](301/class-05.md)                                              |
+| CLASS-06     | [_Node, Express, and APIs_](301/class-06.md)                                        |
+| CLASS-07     | [_APIs continued_](301/class-07.md)                                                 |
 | CLASS-08     | [_TBD_](201/class-02.md)                                                            |
 | CLASS-09     | [_TBD_](201/class-02.md)                                                            |
 | CLASS-10     | [_TBD_](201/class-02.md)                                                            |
