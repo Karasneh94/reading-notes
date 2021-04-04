@@ -46,7 +46,7 @@
 | CLASS-08     | [_SQL_](301/class-08.md)                                                            |
 | CLASS-09     | [_Refactoring_](301/class-09.md)                                                    |
 | CLASS-10     | [_The Call Stack and Debugging_](301/class-10.md)                                   |
-| CLASS-11     | [_TBD_](201/class-02.md)                                                            |
+| CLASS-11     | [_EJS_](301/class-11.md)                                                            |
 | CLASS-12     | [_TBD_](201/class-02.md)                                                            |
 | CLASS-13     | [_TBD_](201/class-02.md)                                                            |
 | CLASS-14     | [_TBD_](201/class-02.md)                                                            |
