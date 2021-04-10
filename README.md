@@ -47,8 +47,8 @@
 | CLASS-09     | [_Refactoring_](301/class-09.md)                                                    |
 | CLASS-10     | [_The Call Stack and Debugging_](301/class-10.md)                                   |
 | CLASS-11     | [_EJS_](301/class-11.md)                                                            |
-| CLASS-12     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-13     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-14     | [_TBD_](201/class-02.md)                                                            |
-| CLASS-15     | [_TBD_](201/class-02.md)                                                            |
-
+| CLASS-12     | [_Components_](301/class-12.md)                                                     |
+| CLASS-13     | [_Update/Delete_](301/class-13.md)                                                  |
+| CLASS-14a    | [_DB Normalization_](301/class-14a.md)                                              |
+| CLASS-14b    | [_Project Ideas & APIs_](301/class-14b.md)                                          |
+| CLASS-15     | [_Diversity and Inclusion_](301/class-15.md)                                        |
